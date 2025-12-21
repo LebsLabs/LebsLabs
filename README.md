@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋, I'm Lebs from LebsLabsLink
 
-<!--
-**LebsLabs/LebsLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Solidity & Blockchain Developer** based in Malta 🇲🇹.
 
-Here are some ideas to get you started:
+Currently building my skills in Ethereum smart contract development with a focus on secure, real-world dApps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Learning & Building
+- Mastering Solidity through **CryptoZombies** (completed early lessons) and **Patrick Collins' Foundry Course** (Cyfrin Updraft – in progress).
+- Completed: **Mastering Web3 MOOC** (University of Nicosia).
+- Midway through **Python Specialization** (on Coursera).
+- Experimenting with Python and Blockchain technology.
+
+### 🛠️ Tech Stack
+- **Languages**: Solidity, Python, HTML/CSS basics
+- **Tools**: Remix IDE, Foundry, Hardhat (learning), GitHub for portfolio
+- **Focus**: Smart contracts, DeFi, secure coding practices
+
+### 📂 My Projects
+- [My First Solidity Contract](https://github.com/LebsLabs/my-first-solidity-contract) – Early CryptoZombies exercises (zombie factory, feeding, tests).
+
+More projects coming soon: Chainlink-integrated FundMe, Raffle dApps, and full DeFi prototypes!
+
+### 🌱 Goals
+- Build a strong portfolio of deployed smart contracts on testnets (Sepolia, etc.).
+- Contribute to open-source web3 projects.
+- Freelance/collaborate on Solidity gigs (open to US/EU clients).
+
+### 📫 Connect with Me
+- Email: (soon to be added)
+
+Thanks for visiting! Star my repos if you like what you see ⭐
