@@ -16,7 +16,7 @@ Currently building my skills in Ethereum smart contract development with a focus
 - **Focus**: Smart contracts, DeFi, secure coding practices
 
 ### 📂 My Projects
-- [Solidity Exersices in]([https://github.com/LebsLabs/solidity_workshop]) – Early CryptoZombies exercises with Ethereum NatSpec.
+- [Solidity Exersices in](https://github.com/LebsLabs/solidity_workshop) – Early CryptoZombies exercises with Ethereum NatSpec.
 - [Data Extortion in Python](https://github.com/LebsLabs/cyprus-grants-collector_python). 
 
 More projects coming soon: Chainlink-integrated FundMe, Raffle dApps, and full DeFi prototypes!
