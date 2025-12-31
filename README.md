@@ -17,8 +17,8 @@ Currently building my skills in Ethereum smart contract development with a focus
 
 ### 📂 My Projects
 - [Solidity Exersices in](https://github.com/LebsLabs/solidity_workshop) – Early CryptoZombies exercises with Ethereum NatSpec.
-- [Data Extortion in Python](https://github.com/LebsLabs/cyprus-grants-collector_python).
-- [Smart Contract Programming](https://github.com/LebsLabs/SmartFoundry). 
+- [Data Extortion in Python](https://github.com/LebsLabs/cyprus-grants-collector_python) - an automation data collecting program.
+- [Smart Contract Programming](https://github.com/LebsLabs/SmartFoundry) - Smart Contracts writen as part of the Patrick Collins learning course. 
 
 More projects coming soon: Raffle dApps, and full DeFi prototypes!
 
