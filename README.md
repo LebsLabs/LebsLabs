@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Lebs from LebsLabsLink
 
-Aspiring **Solidity & Blockchain Developer** based in Malta 🇲🇹.
+Aspiring **Blockchain Developer** based in Malta 🇲🇹.
 
 Currently building my skills in Ethereum smart contract development with a focus on secure, real-world dApps.
 
@@ -17,9 +17,10 @@ Currently building my skills in Ethereum smart contract development with a focus
 
 ### 📂 My Projects
 - [Solidity Exersices in](https://github.com/LebsLabs/solidity_workshop) – Early CryptoZombies exercises with Ethereum NatSpec.
-- [Data Extortion in Python](https://github.com/LebsLabs/cyprus-grants-collector_python). 
+- [Data Extortion in Python](https://github.com/LebsLabs/cyprus-grants-collector_python).
+- [Smart Contract Programming](https://github.com/LebsLabs/SmartFoundry). 
 
-More projects coming soon: Chainlink-integrated FundMe, Raffle dApps, and full DeFi prototypes!
+More projects coming soon: Raffle dApps, and full DeFi prototypes!
 
 ### 🌱 Goals
 - Build a strong portfolio of deployed smart contracts on testnets (Sepolia, etc.).
