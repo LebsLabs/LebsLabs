@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Lebs from LebsLabsLink
+## Hi there 👋, I'm Lebs from LebsLabs
 
 Aspiring **Blockchain Developer** based in Malta 🇲🇹.
 
