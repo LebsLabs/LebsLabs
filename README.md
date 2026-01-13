@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Alen from LebsLabs
 
-Aspiring **Blockchain Developer** based in Malta 🇲🇹.
+Aspiring **Blockchain Developer**.
 
 Currently building my skills in Ethereum smart contract development with a focus on secure, real-world dApps.
 
