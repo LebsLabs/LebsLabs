@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Alen from LebsLabs
+## Hi there 👋, Welcome to LebsLabs
 
 Aspiring **Blockchain Developer**.
 
