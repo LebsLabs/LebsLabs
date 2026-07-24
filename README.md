@@ -1,36 +1,9 @@
-## Hi there 👋, Welcome to LebsLabs
+Hi there, and welcome to LebsLabs — there is no hidden meaning behind the name:) 
 
-Aspiring **Blockchain Developer**.
+I work as a Data Engineer in the medical sector. My main responsibilities include maintaining data registers, creating dashboards, organising data, and automating repetitive processes.
 
-Currently building my skills in Ethereum smart contract development & improving my Python expertise with some hands-on learning by building automation programs. 
+I work mainly with VBA, while also using SQL and Python for data cleaning, analysis, and automation.
 
-### What I'm Learning? How I'm Learning?
-- SOLIDITY through **CryptoZombies** and **Patrick Collins**.
-Past/Current/ planed PROJECTs: De-Lottery 
-- PYTHON through **Python Specialization** offered by University of Michigan. ### I think prof.dr. Chuck S. is a great teacher! 
-- Past/Current/ planed PROJECTs: Right now working on a web scraper which represents quite a challenge for an intermediate Python developer as the webpages are numerous, descriptive and each has tags structured in a its own way. 
+Here you can find a selection of my projects, experiments, and code samples. I am continuously learning and improving, so constructive feedback and suggestions are always welcome.
 
-### 🛠️ Tech Stack
-- **Languages**: Solidity is my major while python my minor :)
-- html, css ...of course 
-- **Tools**: VS Code, WSL, Remix IDE, Foundry, Hardhat, GitHub, Alchemy/ChainLink 
-- **Focus**: Smart contracts & security + Python automation. 
-
-### 📂 My Projects
-
-- [Smart contract Programing with Foundry](https://github.com/LebsLabs/foundry-fund-me-course-f26)
-- [Smart Contract Programming with tools like ide remix](https://github.com/LebsLabs/smart-foundry)
-- [Solidity Exersices in](https://github.com/LebsLabs/zombies-solidity-exercise) 
-- [Data Extortion in Python](https://github.com/LebsLabs/web-data-extraction) 
-
-More projects coming soon: Raffle dApps, and full DeFi prototypes!
-
-### 🌱 Goals
-- Build a strong portfolio of deployed smart contracts on testnets (Sepolia, etc.).
-- Contribute to open-source web3 projects.
-- Freelance/collaborate on Solidity gigs.
-
-### 📫 Connect with Me
-- Email: to be added
-
-Thanks for visiting! Star my repos if you like what you see ⭐
+Thanks for visiting, and have a great day!
