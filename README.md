@@ -1,9 +1,21 @@
-Hi there, and welcome to LebsLabs — there is no hidden meaning behind the name:) 
+Hi, I'm the developer behind LebsLabs 👋
 
-I work as a Data Engineer in the medical sector. My main responsibilities include maintaining data registers, creating dashboards, organising data, and automating repetitive processes.
+I build practical tools that simplify repetitive processes, improve data quality, and make business workflows more efficient.
 
-I work mainly with VBA, while also using SQL and Python for data cleaning, analysis, and automation.
+My work focuses on Excel VBA automation, data processing, reporting, and Microsoft Office integration, primarily within healthcare administration.
 
-Here you can find a selection of my projects, experiments, and code samples. I am continuously learning and improving, so constructive feedback and suggestions are always welcome.
+I'm expanding my technical skills in Python, SQL, data engineering, and machine learning, with an interest in developing reliable data systems and intelligent automation.
 
-Thanks for visiting, and have a great day!
+Featured Projects
+
+GOP Generator
+
+An Excel VBA solution for automating Guarantees of Payment, including document generation, approval workflows, register updates, and currency exchange-rate integration.
+
+Technologies
+
+Core: Excel VBA · Microsoft Excel · Microsoft Word · Power Query
+
+Developing: Python · SQL · Data Engineering · Machine Learning
+
+I use this GitHub profile to document projects, experiment with technologies, and share practical solutions to real-world problems.
