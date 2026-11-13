@@ -1,8 +1,6 @@
-Hi, I'm the developer behind LebsLabs 👋
+### Hi, I'm the developer behind LebsLabs 👋
 
 I build practical tools that simplify repetitive processes, improve data quality, and make business workflows more efficient.
-
-My work focuses on Excel VBA automation, data processing, reporting, and Microsoft Office integration, primarily within healthcare administration.
 
 I'm expanding my technical skills in Python, SQL, data engineering, and machine learning, with an interest in developing reliable data systems and intelligent automation.
 
@@ -14,7 +12,7 @@ GOP Generator is an Excel VBA solution for automating Guarantees of Payment, inc
 ### TPA Operations Dashboard: the running balances that needed to be constantly monitored are now displayed. 
 A Python dashboard that reads running balances from Excel workbooks, stores current values and historical observations in SQLite, and displays them through a Flask web interface
 
-Technologies
+## Technologies
 
 Core: Excel VBA · Microsoft Excel · Microsoft Word · Power Query
 
