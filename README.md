@@ -9,7 +9,7 @@ I'm expanding my technical skills in Python, SQL, data engineering, and machine 
 Featured Projects
 
 - TPA Operations Dashboard
-- 
+  
 - GOP Generator: An Excel VBA solution for automating Guarantees of Payment, including document generation, approval workflows, register updates, and currency exchange-rate integration.
 
 Technologies
