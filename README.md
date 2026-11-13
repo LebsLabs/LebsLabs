@@ -7,13 +7,12 @@ My work focuses on Excel VBA automation, data processing, reporting, and Microso
 I'm expanding my technical skills in Python, SQL, data engineering, and machine learning, with an interest in developing reliable data systems and intelligent automation.
 
 ### Featured Projects
-
-### TPA Operations Dashboard
   
 ### GOP Generator: Saved 20 minutes of time per each document created per coordinator. 
 GOP Generator is an Excel VBA solution for automating Guarantees of Payment, including document generation, approval workflows, register updates, and currency exchange-rate integration.
 
-![TPA Operations Dashboard](https://raw.githubusercontent.com/LebsLabs/TPA-Operations-Dashboard/main/docs/dashboard.png)
+### TPA Operations Dashboard: the running balances that needed to be constantly monitored are now displayed. 
+A Python dashboard that reads running balances from Excel workbooks, stores current values and historical observations in SQLite, and displays them through a Flask web interface
 
 Technologies
 
