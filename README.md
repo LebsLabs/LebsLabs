@@ -7,7 +7,7 @@ My work focuses on Excel VBA automation, data processing, reporting, and Microso
 I'm expanding my technical skills in Python, SQL, data engineering, and machine learning, with an interest in developing reliable data systems and intelligent automation.
 
 Featured Projects
-- TPA Operational Dashboard
+- TPA Operations Dashboard
 - GOP Generator
 
 An Excel VBA solution for automating Guarantees of Payment, including document generation, approval workflows, register updates, and currency exchange-rate integration.
