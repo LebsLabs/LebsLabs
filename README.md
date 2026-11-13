@@ -1,4 +1,4 @@
-### Hi, I'm the developer behind LebsLabs 👋
+### Hi, I'm the developer behind LebsLabs
 
 I build practical tools that simplify repetitive processes, improve data quality, and make business workflows more efficient.
 
