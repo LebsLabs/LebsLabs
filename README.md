@@ -4,7 +4,7 @@ I build practical tools that simplify repetitive processes, improve data quality
 
 I'm expanding my technical skills in Python, SQL, data engineering, and machine learning.
 
-### Featured Projects
+## Featured Projects
   
 ### GOP Generator: Saved 20 minutes of time per each document created per coordinator. 
 GOP Generator is an Excel VBA solution for automating Guarantees of Payment, including document generation, approval workflows, register updates, and currency exchange-rate integration.
