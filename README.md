@@ -10,7 +10,9 @@ I'm expanding my technical skills in Python, SQL, data engineering, and machine 
 
 ### TPA Operations Dashboard
   
-### GOP Generator: An Excel VBA solution for automating Guarantees of Payment, including document generation, approval workflows, register updates, and currency exchange-rate integration.
+### GOP Generator: Saved 20 minutes of time per each document created per coordinator. 
+GOP Generator is an Excel VBA solution for automating Guarantees of Payment, including document generation, approval workflows, register updates, and currency exchange-rate integration.
+
 ![TPA Operations Dashboard](https://raw.githubusercontent.com/LebsLabs/TPA-Operations-Dashboard/main/docs/dashboard.png)
 
 Technologies
