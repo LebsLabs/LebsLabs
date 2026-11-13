@@ -2,7 +2,7 @@
 
 I build practical tools that simplify repetitive processes, improve data quality, and make business workflows more efficient.
 
-I'm expanding my technical skills in Python, SQL, data engineering, and machine learning, with an interest in developing reliable data systems and intelligent automation.
+I'm expanding my technical skills in Python, SQL, data engineering, and machine learning.
 
 ### Featured Projects
   
