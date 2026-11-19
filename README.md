@@ -14,4 +14,6 @@ GOP Generator is an Excel VBA solution for automating Guarantees of Payment, inc
 ### TPA Operations Dashboard: the running balances that needed to be constantly monitored are now displayed. 
 A Python dashboard that reads running balances from Excel workbooks, stores current values and historical observations in SQLite, and displays them through a Flask web interface
 
+## Contact details
+
 You can contact me via: 
